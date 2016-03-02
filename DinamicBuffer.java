@@ -18,6 +18,7 @@ public class DinamicBuffer implements BufferInterFace {
 				newBuff[i]=buffer[i];
 			}
 			buffer = newBuff;
+			// stam heara 
 		}
 
 		buffer[currIdx++]=obj;
